@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mail Application</string>
+    <string name="enter_mail">enter e-mail</string>
+    <string name="enter_theme">enter theme</string>
+    <string name="enter_message">enter message</string>
+    <string name="button_name">send</string>
+    <string name="mail_chooser">Send mail...</string>
+    <string name="mail_denied">"There are no email clients installed."</string>
+</resources>

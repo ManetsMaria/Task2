@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task2_20180312</string>
+    <string name="button_name">go to mail application</string>
+    <string name="permission_denied">permission denied</string>
+</resources>
